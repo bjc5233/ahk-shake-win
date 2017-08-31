@@ -9,4 +9,5 @@
 1. 在任意可输入的地方（如记事本）输入[ a ]，当前窗口会抖动指定次数
 
 ## 预览
+实际抖动效果很快速，下图是因为录制压缩看起来很慢
 <div align=center><img src="https://github.com/bjc5233/ahk-shake-win/raw/master/resources/demo.gif"/></div>
